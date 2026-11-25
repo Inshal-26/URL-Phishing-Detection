@@ -112,3 +112,8 @@ GitHub: [Inshal-26](https://github.com/Inshal-26)
 ---
 
 ⭐ If you find this project interesting, consider giving the repository a star!
+## Live Demo
+
+Try the deployed application here:
+
+[URL Phishing Detection System](https://url-phishing-detection-hrhagpza2zhcgjpe3arvsz.streamlit.app/)
